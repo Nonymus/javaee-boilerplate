@@ -1,0 +1,11 @@
+# eclipse stuff
+.classpath
+.settings/
+.project
+
+# maven build folder
+target/
+/target/
+
+.factorypath
+.tern-project

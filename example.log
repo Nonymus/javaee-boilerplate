@@ -1,0 +1,7 @@
+20:04:42,333 INFO  [org.jboss.as.server] (DeploymentScanner-threads - 1) JBAS018565: Replaced deployment "javaee-fiddle.war" with deployment "javaee-fiddle.war"
+20:04:50,703 INFO  [de.nonymus.beans.BackgroundJobs] (EJB default - 4) Start bulk single transaction creation
+20:04:51,253 INFO  [de.nonymus.beans.BackgroundJobs] (EJB default - 4) Bulk creation took 549 ms
+20:04:59,392 INFO  [de.nonymus.beans.BackgroundJobs] (EJB default - 5) Start bulk one transaction each creation
+20:05:03,719 INFO  [de.nonymus.beans.BackgroundJobs] (EJB default - 5) Single creation took 4327 ms
+20:05:05,739 INFO  [de.nonymus.beans.BackgroundJobs] (EJB default - 6) Start bulk single bean call creation
+20:05:05,853 INFO  [de.nonymus.beans.BackgroundJobs] (EJB default - 6) Direct creation took 113 ms
